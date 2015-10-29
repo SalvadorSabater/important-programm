@@ -66,3 +66,4 @@ toro_rosso.make_nois
 ecoche_papa = PapaCar.new
 coche_papa.tapar_capota
 coche_papa.tapar_capota
+Hola pajarito
